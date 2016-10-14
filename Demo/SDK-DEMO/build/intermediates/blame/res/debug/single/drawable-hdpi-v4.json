@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\joystick_bg.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-hdpi\\joystick_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\joystick.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-hdpi\\joystick.png"
+    }
+]

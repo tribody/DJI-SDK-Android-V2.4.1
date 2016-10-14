@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\dark_720p25.264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\dark_720p25.264"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\dark_1080p30.264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\dark_1080p30.264"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\flyc_param_infos",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\flyc_param_infos"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\dark_1080p25.264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\dark_1080p25.264"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_1280_ins.h264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_1280_ins.h264"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\dock.ogg",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\dock.ogg"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\effect_tick.ogg",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\effect_tick.ogg"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\dark_720p30.264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\dark_720p30.264"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_960_3s.h264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_960_3s.h264"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\raw\\iframe_1280_3s.h264",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\exploded-aar\\DJI-SDK-Android-V2.4.1.Lib\\DJI-SDK-LIB\\unspecified\\res\\raw\\iframe_1280_3s.h264"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pickerbutton_normal.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\pickerbutton_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_button_press.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\back_button_press.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pickerbutton_pressed.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\pickerbutton_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_button_normal.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\back_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\back_button_disable.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\back_button_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\picker_ok_bg.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\picker_ok_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_tick.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\icon_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pickerbackground_single.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\pickerbackground_single.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\continue_setting_overlay.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\continue_setting_overlay.png"
+    },
+    {
+        "merged": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\picker_black_bg.png",
+        "source": "C:\\Users\\tribody\\Desktop\\hackfdu\\V2.4.1\\Sample\\Android Studio\\DJI-SDK-Android-V2.4.1\\Demo\\SDK-DEMO\\res\\drawable-mdpi\\picker_black_bg.png"
+    }
+]

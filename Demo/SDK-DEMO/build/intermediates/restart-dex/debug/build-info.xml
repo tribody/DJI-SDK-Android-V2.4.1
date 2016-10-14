@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="9790611733619"
+    token="5326076813971517439" >
+
+    <task
+        name="javac"
+        duration="7278" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="6991" />
+    <task
+        name="verifier"
+        duration="3445" />
+
+    <artifact
+        location="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\outputs\apk\SDK-DEMO-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9790611733619" >
+        <artifact
+            location="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\outputs\apk\SDK-DEMO-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\exploded-aar\DJI-SDK-Android-V2.4.1.Lib\DJI-SDK-LIB\unspecified\jars\libs\mygson-2.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6e26ca2aaf5fe925234b7b0336884352161ca062">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\8\mygson-2.0_93b1a8536d220441493dfbf7fe7ae761081ef82a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\exploded-aar\DJI-SDK-Android-V2.4.1.Lib\DJI-SDK-LIB\unspecified\jars\libs\bouncycastle.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="0507e98c9ef619ed42e179d63caff5ac2862e7e8">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\8\bouncycastle_b4808f0e4f378f1a0eed3ba996c7280dbdae9800\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="cb6883d96005bc85b3e868f204507ea5b4fa9bbf">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_53c28dd4b8b295fcea77c659235457987545c1cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1814cc22896ab535ff101be394b5e05d0913856f">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42e2d50e02e875546d3c1afc84deb44c50307933\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\exploded-aar\DJI-SDK-Android-V2.4.1.Lib\DJI-SDK-LIB\unspecified\jars\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="53249dc2c5306f8d8a6019a31c859399c5e1f8a2">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\8\pinyin4j-2.5.0_af81314103ea79d403bc3bbb931d2baf85a9dd9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\exploded-aar\DJI-SDK-Android-V2.4.1.Lib\DJI-SDK-LIB\unspecified\jars\libs\eventbus.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5c395e6c67f96d9d3cd90eed728eee8281a49be4">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\8\eventbus_d5c762cbb7261220db75530799f46ab37b5bf6d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="49083857f8c5a16a903bdb68b445bd0e77f7e8c6">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7fc4072b626789fd545626b41b4469e0c9d1663a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\exploded-aar\DJI-SDK-Android-V2.4.1.Lib\DJI-SDK-LIB\unspecified\jars\libs\dji-sdk.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f934ca508e0736819f3f2118e941e78c1ea1cee2">
+        <dex dex="C:\Users\tribody\Desktop\hackfdu\V2.4.1\Sample\Android Studio\DJI-SDK-Android-V2.4.1\Demo\SDK-DEMO\build\intermediates\transforms\dex\debug\folders\1000\8\dji-sdk_fb8b306b61db3942b799f9372846527ec229c020\classes.dex" />
+    </item>
+
+</items>
